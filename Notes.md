@@ -21,7 +21,7 @@ JDK:
     JDK is a software package used to develop, compile, debug, and run Java programs.
 
     It contains:
-    
+
     JVM (Java Virtual Machine) → Executes Java bytecode.
     JRE (Java Runtime Environment) → Provides the environment needed to run Java programs.
     Development tools → Used to create Java programs.
@@ -33,3 +33,17 @@ JDK:
     jdb → Java debugger
     javadoc → Generates documentation
     jar → Creates/manages Java archives
+
+Data Types:
+    Primitive & Non-Primitive
+    Integer:
+      byte - 1byte , short - 2bytes , int - 4bytes , long - 8bytes
+    Float:
+      double - 8bytes(default) , float - 4bytes
+    Character:
+      char - 2bytes
+      " " -> for string 
+      ' ' -> for character
+    Boolean:
+      true or false 
+      bool b = false;
