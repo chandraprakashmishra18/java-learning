@@ -4,3 +4,5 @@ JVM :
     Basic flow:
     Java source code (.java) → Java Compiler (javac) → Bytecode (.class) → JVM → Program runs
     * Java is a platform independent language
+Object Oriented:
+    Java is object oriented so it wants to treat as an object for which we need to have a class 
