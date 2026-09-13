@@ -37,10 +37,14 @@ JDK:
 Data Types:
     Primitive & Non-Primitive
     Integer:
-      byte - 1byte , short - 2bytes , int - 4bytes , long - 8bytes
+      byte - 1byte ,
+      short - 2bytes , 
+      int - 4bytes , 
+      long - 8bytes
       byte limit is from -128 to 127 only
     Float:
-      double - 8bytes(default) , float - 4bytes
+      double - 8bytes(default) , 
+      float - 4bytes
     Character:
       char - 2bytes
       " " -> for string 
