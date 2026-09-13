@@ -9,3 +9,27 @@ Object Oriented:
 
 JRE:
     Java Runtime Environment - JVM along with some other libraries form JRE
+    Relationship
+    JDK ⟶ JRE ⟶ JVM
+
+    JVM → Runs Java bytecode.
+
+    JRE → JVM + libraries → Runs Java programs.
+
+    JDK → JRE + development tools → Develops + runs Java programs.
+JDK:
+    JDK is a software package used to develop, compile, debug, and run Java programs.
+
+    It contains:
+    
+    JVM (Java Virtual Machine) → Executes Java bytecode.
+    JRE (Java Runtime Environment) → Provides the environment needed to run Java programs.
+    Development tools → Used to create Java programs.
+
+    Important tools include:
+
+    javac → Java compiler; converts .java → .class
+    java → Runs the Java program
+    jdb → Java debugger
+    javadoc → Generates documentation
+    jar → Creates/manages Java archives
