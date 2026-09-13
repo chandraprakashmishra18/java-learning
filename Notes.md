@@ -6,3 +6,6 @@ JVM :
     * Java is a platform independent language
 Object Oriented:
     Java is object oriented so it wants to treat as an object for which we need to have a class 
+
+JRE:
+    Java Runtime Environment - JVM along with some other libraries form JRE
