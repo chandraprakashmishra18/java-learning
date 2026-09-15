@@ -1,7 +1,7 @@
 class Switch {
     public static void main(String[] args) {
         int x = 8;
-        switch(x){
+        switch (x){
             case 1:
                 System.out.println("Monday");
                 break;
