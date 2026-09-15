@@ -34,7 +34,7 @@
 class SwitchExprssn{
     public static void main(String[] args){
         String day = "Sunday";
-        String result = " ";
+        String result ;
 
         result = switch(day){
 
