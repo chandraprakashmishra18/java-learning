@@ -13,6 +13,23 @@
 // }
 
 
+// class SwitchExprssn{
+//     public static void main(String[] args){
+//         String day = "Sunday";
+//         String result = "";
+
+//         result = switch(day){
+//             case "Saturday","Sunday" -> "6am";
+//             case "Monday" -> "8am";
+//             default -> "7am";
+//         };
+//         System.out.println(result);
+
+//     }
+// }
+
+
+
 //    using switch as an exprssn using yield
 class SwitchExprssn{
     public static void main(String[] args){
@@ -25,6 +42,7 @@ class SwitchExprssn{
             case "Monday" : yield "8am";
             default : yield "7am";
         };
+        System.out.println(result);
 
     }
 }
