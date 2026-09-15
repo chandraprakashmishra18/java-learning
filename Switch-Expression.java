@@ -12,6 +12,8 @@
 //     }
 // }
 
+
+//    using switch as an exprssn using yield
 class SwitchExprssn{
     public static void main(String[] args){
         String day = "Sunday";
