@@ -52,3 +52,8 @@ Data Types:
     Boolean:
       true or false 
       bool b = false;
+
+OOPS:
+    Object Oriented Programming
+    Object -> Properties & Behaviour
+    Class -> Blueprint for our Object
