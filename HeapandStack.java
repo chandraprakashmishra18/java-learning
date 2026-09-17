@@ -1,23 +1,20 @@
-class Computer6
+class Calculator1
 {
-    public void playMusic()
-    {
-        System.out.println("Music Played");
-    }
+    int num;
 
-    public String getMeAPen(int cost){
-        if(cost>=10)
-            return "Pen";
-        else
-            return "Nothing";
+    public int add(int n1,int n2){
+        return n1 + n2;
     }
 }
 public class HeapandStack {
     public static void main(String[] args) {
-        Computer6 obj = new Computer6();
-        obj.playMusic();
-        String str = obj.getMeAPen(0);
-        System.out.println(str);
+        int data = 10;
+        Calculator1 obj = new Calculator1();
+        Calculator1 obj1 = new Calculator1();
+        int r1 = obj.add(3,4);
+        System.err.println(r1);
+        System.err.println(obj1);
+        System.err.println(obj);
 
     }
 }
