@@ -1,4 +1,4 @@
-class Computer
+class Computer6
 {
     public void playMusic()
     {
@@ -14,7 +14,7 @@ class Computer
 }
 public class HeapandStack {
     public static void main(String[] args) {
-        Computer obj = new Computer();
+        Computer6 obj = new Computer6();
         obj.playMusic();
         String str = obj.getMeAPen(0);
         System.out.println(str);
