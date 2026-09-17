@@ -13,5 +13,8 @@ public class Methods {
     public static void main(String[] args) {
         Computer obj = new Computer();
         obj.playMusic();
+        String str = obj.getMeAPen(10);
+        System.out.println(str);
+
     }
 }
