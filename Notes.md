@@ -69,3 +69,4 @@ METHODS:
 HEAP AND STACK IN JAVA:
   STACK -> LIFO
   HEAP -> OPEN SPACE
+  Every method will have it's own stack memory and they'll have the local variables 
