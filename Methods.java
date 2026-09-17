@@ -12,5 +12,6 @@ class Computer
 public class Methods {
     public static void main(String[] args) {
         Computer obj = new Computer();
+        obj.playMusic();
     }
 }
