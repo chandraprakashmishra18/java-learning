@@ -16,13 +16,13 @@ public class Multidimensionalarray {
             System.out.println();
         }
 
-        for(int n[] : nums)
-        {
-            for (int m:n)
-            {
-                System.out.print(m + " ");
-            }
-            System.out.println();
-        }
+        // for(int n[] : nums)
+        // {
+        //     for (int m:n)
+        //     {
+        //         System.out.print(m + " ");
+        //     }
+        //     System.out.println();
+        // }
     }
 }
