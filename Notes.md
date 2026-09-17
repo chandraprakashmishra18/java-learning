@@ -60,3 +60,5 @@ OOPS:
 
 METHODS:
   MAIN-> main used in public static  void main is itself a method which tells that the development starts from here.
+
+  VOID -> whenever we write void with the method it means we are not expecting anything in return 
