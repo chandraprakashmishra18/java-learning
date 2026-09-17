@@ -71,7 +71,7 @@ HEAP AND STACK IN JAVA:
   HEAP -> OPEN SPACE
   Every method will have it's own stack memory and they'll have the local variables 
 
-  Objects are created in the heap and reference variable in the stack 
+  Objects are created in the heap and reference variable in the stack which holds the address of the object in the heap
 
   LOCAL VARIABLES -> These are the variables that are declared in or inside the methods or functions.They are in Stack memory
 
