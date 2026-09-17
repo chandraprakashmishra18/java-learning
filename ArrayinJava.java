@@ -24,9 +24,9 @@ public class ArrayinJava {
         System.out.println(num[1]);
         System.out.println(nums[3]);
 
-        for (int p = 0 ; i<4 ; i++)
+        for (int p = 0 ; p<4 ; p++)
         {
-            System.err.println(nums[p]);
+            System.out.print(nums[p] + " ");
         }
 
     }
