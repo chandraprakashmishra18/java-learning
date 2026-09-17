@@ -1,6 +1,6 @@
 class Calculator1
 {
-    int num;
+    // int num;
 
     public int add(int n1,int n2){
         return n1 + n2;
@@ -8,7 +8,7 @@ class Calculator1
 }
 public class HeapandStack {
     public static void main(String[] args) {
-        int data = 10;
+        // int data = 10;
         Calculator1 obj = new Calculator1();
         Calculator1 obj1 = new Calculator1();
         int r1 = obj.add(3,4);
