@@ -61,4 +61,10 @@ OOPS:
 METHODS:
   MAIN-> main used in public static  void main is itself a method which tells that the development starts from here.
 
-  VOID -> whenever we write void with the method it means we are not expecting anything in return 
+  VOID -> whenever we write void with the method it means we are not expecting anything in return
+
+  METHODOVERLOADING:
+        Having same fncn with diff ouput or functionality based on the change in the input parameters.
+
+HEAP AND STACK IN JAVA:
+  
