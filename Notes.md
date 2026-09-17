@@ -70,3 +70,9 @@ HEAP AND STACK IN JAVA:
   STACK -> LIFO
   HEAP -> OPEN SPACE
   Every method will have it's own stack memory and they'll have the local variables 
+
+  LOCAL VARIABLES -> These are the variables that are declared in or inside the methods or functions.They are in Stack memory
+
+  INSTANCE VARIABLE -> These are the variables which are declared outside the fucntions inside any class and they can be used in fncns or methods but not declared inside them . They are in Heap memory
+
+
