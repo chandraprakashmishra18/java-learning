@@ -67,4 +67,5 @@ METHODS:
         Having same fncn with diff ouput or functionality based on the change in the input parameters.
 
 HEAP AND STACK IN JAVA:
-  
+  STACK -> LIFO
+  HEAP -> OPEN SPACE
