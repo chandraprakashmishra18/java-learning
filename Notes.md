@@ -57,3 +57,6 @@ OOPS:
     Object Oriented Programming
     Object -> Properties & Behaviour
     Class -> Blueprint for our Object
+
+METHODS:
+  MAIN-> main used in public static  void main is itself a method which tells that the development starts from here.
