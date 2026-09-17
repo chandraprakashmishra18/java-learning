@@ -5,10 +5,12 @@ class Computer
         System.out.println("Music Played");
     }
 
-    public getMeAPen()
+    public String getMeAPen(int cost){
+        return "Pen";
+    }
 }
 public class Methods {
     public static void main(String[] args) {
-        
+        Computer obj = new Computer();
     }
 }
