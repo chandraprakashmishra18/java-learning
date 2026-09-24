@@ -77,4 +77,5 @@ HEAP AND STACK IN JAVA:
 
   INSTANCE VARIABLE -> These are the variables which are declared outside the fucntions inside any class and they can be used in fncns or methods but not declared inside them . They are in Heap memory
 
+INSTANCE VARIABLE belong to a class not to a method
 
